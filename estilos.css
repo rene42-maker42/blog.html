@@ -5,10 +5,11 @@ body{
 }
 
 #cabecera {
-    background: blue;
+    background: rgb(255, 123, 0);
 }
 #container{
     width: 70%;
     padding: 1em;
     background-color: blue;
+    border-radius: 15px;
 }
