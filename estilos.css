@@ -1,4 +1,13 @@
 body{
     text-align: center;
     font-family: Arial;
+    color: rgb(46, 204, 25);
+}
+
+#cabecera {
+    background: blue;
+}
+#container{
+    width: 70%;
+    padding: 1em;
 }
