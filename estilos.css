@@ -1,7 +1,7 @@
 body{
     text-align: center;
     font-family: Arial;
-    color: rgb(46, 204, 25);
+    color: rgb(88, 25, 204);
     font-size: 14px;
     margin: 0;
     padding: 0;
@@ -14,7 +14,7 @@ body{
 {
     width: 70%;
     padding: 1em;
-    background-color: blue;
+    background-color: rgb(255, 153, 0);
     text-align: left;
     margin: auto;
     border: 1px solid blanchedalmond;
