@@ -10,4 +10,5 @@ body{
 #container{
     width: 70%;
     padding: 1em;
+    background-color: blue;
 }
