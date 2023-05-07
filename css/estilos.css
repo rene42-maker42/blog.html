@@ -7,9 +7,10 @@ body{
     padding: 0;
 }
 img{
-    text-align: center;
+   padding: 1em;
+text-align: left;
     width: 70%;
-    margin:auto;
+    margin: auto;
     border: 5px ;
 }
 #cabecera {
