@@ -7,9 +7,10 @@ body{
     padding: 0;
 }
 img{
-    text-aling: center;
+    text-aling: left;
     width: 70%;
     margin:auto;
+    border: 5px ;
 }
 #cabecera {
     background: rgb(21, 255, 0);
