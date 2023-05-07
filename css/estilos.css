@@ -9,12 +9,13 @@ body{
 card-img-top{
     width: 70%;
     margin:auto;
+}
 #cabecera {
     background: rgb(21, 255, 0);
     font-size: 18px;
 }
 #cabecera span{
-    rgb(21, 255, 0);
+    background :rgb(21, 255, 0);
 }
 #cabecera  #titulo{
     font-size: 18px;
