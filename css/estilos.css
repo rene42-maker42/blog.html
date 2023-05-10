@@ -9,7 +9,7 @@ body{
 img{
    padding: 1em;
 align-items:center;
-    width: 100%;
+    width: 80%;
     margin: auto;
     border: 5px ;
 }
@@ -35,9 +35,9 @@ align-items:center;
 }
 #container h5{
     font-size: 20px;
-    background: rgb(7, 83, 223);
+    background: white;
 }
 #container p{
     font-size: 20px;
-    background: cadetblue;
+    background: white;
 }
