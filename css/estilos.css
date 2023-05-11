@@ -19,6 +19,7 @@ align-items:center;
 }
 #cabecera span{
     background :rgb(21, 255, 0);
+   
 }
 #cabecera  #titulo{
     font-size: 18px;
@@ -35,7 +36,7 @@ align-items:center;
 }
 #container h5{
     font-size: 20px;
-    background: rgb(7, 83, 223);
+    background: rg;
 }
 #container p{
     font-size: 20px;
