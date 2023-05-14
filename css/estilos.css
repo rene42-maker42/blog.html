@@ -7,7 +7,7 @@ body{
     padding: 0;
 }
 body{
-   background: beige;
+   background:black;
 }
 img{
    padding: 1em;
@@ -17,12 +17,17 @@ align-items:center;
     border: 5px ;
 }
 #cabecera {
+  
     background: rgb(21, 255, 0);
     font-size: 18px;
 }
 #cabecera span{
     background :rgb(21, 255, 0);
    
+}
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
 }
 #cabecera  #titulo{
     font-size: 18px;
